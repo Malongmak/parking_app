@@ -49,7 +49,7 @@ git clone https://github.com/yourusername/car-parking-app.git
 
 ## Screenshots
 
-![Car Parking App](screenshots/parking-app.png)
+![Image](https://github.com/user-attachments/assets/eba88142-4d03-4524-8527-1ca2a83a46e4)
 
 *Example of how the app looks when you add a car to the parking list.*
 
