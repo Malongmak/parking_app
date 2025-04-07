@@ -1,7 +1,3 @@
-Here’s a sample **README** for your Car Parking app project:
-
----
-
 # Car Parking App
 
 This project is a web-based Car Parking system that allows users to register their vehicles in a parking lot. The system stores information like the car owner’s name, plate number, car color, phone number, and the time of entry. The user can easily register their car, view the parking list, and remove any car from the system.
@@ -53,7 +49,7 @@ git clone https://github.com/yourusername/car-parking-app.git
 
 ## Screenshots
 
-![Car Parking App](screenshots/parking-app.png)
+![Image](https://github.com/user-attachments/assets/eba88142-4d03-4524-8527-1ca2a83a46e4)
 
 *Example of how the app looks when you add a car to the parking list.*
 
